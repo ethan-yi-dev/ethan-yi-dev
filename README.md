@@ -11,6 +11,7 @@ Welcome to my GitHub profile! I'm a passionate **Full-Stack Software Developer**
 ## 🛠️ Tech Stack
 
 ### 🚀 Frontend
+<!--
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
@@ -22,8 +23,10 @@ Welcome to my GitHub profile! I'm a passionate **Full-Stack Software Developer**
   <img src="https://img.shields.io/badge/Material--UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="Material-UI" />
   <img src="https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="Styled Components" />
 </p>
+-->
 
 ### ⚙️ Backend
+<!--
 <p align="left">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
@@ -35,8 +38,10 @@ Welcome to my GitHub profile! I'm a passionate **Full-Stack Software Developer**
   <img src="https://img.shields.io/badge/MyBatis_Plus-FF2D20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="MyBatis-Plus" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
 </p>
+-->
 
 ### ☁️ DevOps & Cloud
+<!--
 <p align="left">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
@@ -55,7 +60,11 @@ Welcome to my GitHub profile! I'm a passionate **Full-Stack Software Developer**
   <img src="https://img.shields.io/badge/AWS_RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white" alt="AWS RDS" />
 -->
 
+-->
+
+
 ## 🏆 Featured Projects
+<!--
 <details>
   <summary>🌐 Web Development</summary>
 
@@ -123,7 +132,7 @@ Welcome to my GitHub profile! I'm a passionate **Full-Stack Software Developer**
       - 🔗 **GitHub:** [React Native Weather](https://github.com/yourusername/rn-weather)  
     </details>
 </details>
-
+-->
 ## 📊 GitHub Stats
 <div align="center">
   <table>
