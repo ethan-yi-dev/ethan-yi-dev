@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Kevin Yi
+# Hi there! 👋 I'm Ethan Yi
 
 Welcome to my GitHub profile! I'm a passionate **Full-Stack Software Developer** with expertise in building scalable and efficient applications. I specialize in modern web technologies and cloud solutions.
 
