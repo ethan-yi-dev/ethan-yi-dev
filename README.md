@@ -62,7 +62,6 @@ Welcome to my GitHub profile! I'm a passionate **Full-Stack Software Developer**
 
 -->
 
-
 ## 🏆 Featured Projects
 <!--
 <details>
