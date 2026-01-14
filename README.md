@@ -1,6 +1,6 @@
 # Hi, I'm Ethan 👋
 
-Full-stack developer focused on .NET, C#, and modern web development.
+Full-stack developer focused on java, .NET, C#, and modern web development.
 
 Software Engineer | Entrepreneur
 
