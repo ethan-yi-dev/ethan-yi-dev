@@ -1,11 +1,14 @@
-# Hi, I'm Ethan 👋
+# Hi, I'm Ethan
 
-Full-stack developer focused on java, .NET, C#, and modern web development.
+Backend engineer focused on Java, distributed systems, and AI infrastructure.  
+Currently building at Codary Labs — RAG pipelines, high-concurrency backends,  
+and cloud-native architecture on AWS.
 
-Software Engineer | Entrepreneur
+M.S. Computer Science @ Georgia Tech (OMSCS) · AWS SAA · Java OCA
 
-Keen on innovative collaborations and tech advancements. Let's connect!
+---
 
+**Core stack:** Java 21 · Spring Boot · Redis · Kafka · Milvus · PostgreSQL · AWS
 <!--START_SECTION:waka-->
 
 <!--END_SECTION:waka-->
