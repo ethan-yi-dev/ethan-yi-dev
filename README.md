@@ -1,7 +1,6 @@
 # Hi, I'm Ethan 👋
 
-Full Stack Engineer specializing in React, TypeScript, and Node.js microservices. 
-Currently building at Codary Labs — shipping full-stack AI platforms (RAG), high-concurrency cloud architecture, and infrastructure automation.
+Full Stack Engineer specializing in React, TypeScript, java, and Node.js microservices. 
 
 🎓 M.S. in Computer Science @ Georgia Tech (OMSCS)
 ☁️ AWS Certified Solutions Architect (SAA-C03)
